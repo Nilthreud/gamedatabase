@@ -1,45 +1,61 @@
 {
     "name": "Judge Kise",
-    "rarity": 5,
-    "classType": "warrior",
+    "rarity": "5",
+    "classType": "knight",
     "element": "light",
     "zodiac": "virgo",
     "specialtyChangeName": "",
     "selfSkillBarName": "",
-    "background": [
-        "An Heir of the Sixth World, Kise is leader of the Nocturnes. She fought every battle against the Archdemon alongside the Guardian Kromcruz. Though she can be sluggish and sharp-tongued, she cares greatly for her fellow Heirs."
-    ],
+    "background": "An observer of fate, the Heir who watches over the world ",
     "relations": [
-        { "hero": "ras", "relationType": "trust" },
-        { "hero": "nilgal", "relationType": "grudge" },
-        { "hero": "tenebria", "relationType": "grudge" },
-        { "hero": "ruele-of-light", "relationType": "trust" },
-        { "hero": "vildred", "relationType": "trust" },
-        { "hero": "ludwig", "relationType": "love" }
+        {
+            "hero": "ludwig",
+            "relationType": "trust"
+        },
+        {
+            "hero": "ras",
+            "relationType": "trust"
+        },
+        {
+            "hero": "nilgal",
+            "relationType": "grudge"
+        },
+        {
+            "hero": "tenebria",
+            "relationType": "grudge"
+        },
+        {
+            "hero": "ruele-of-light",
+            "relationType": "trust"
+        },
+        {
+            "hero": "vildred",
+            "relationType": "trust"
+        }
     ],
     "stats": {
         "base": {
-            "cp": 2645,
-            "atk": 230,
-            "hp": 698,
-            "spd": 115,
-            "def": 74,
-            "chc": 24,
-            "chd": 150,
-            "eff": 9,
+            "cp": "11777",
+            "atk": "713",
+            "hp": "3913",
+            "spd": "111",
+            "def": "497",
+            "chc": "15",
+            "chd": "150",
+            "eff": "0",
             "efr": 0,
-            "dac": 5
+            "dac": "5"
         },
         "max": {
-            "cp": 15910,
-            "atk": 957,
-            "hp": 5057,
-            "spd": 115,
-            "def": 592,
-            "chc": 24,
-            "chd": 150,
-            "eff": 9,
-            "efr": 0,
+            "cp": "16875",
+            "atk": "1039",
+            "hp": "5340",
+            "spd": "115",
+            "def": "617",
+            "chc": "24",
+            "chd": "150",
+            "eff": "9",
+            "efr": "0",
             "dac": 5
         }
     },
@@ -51,36 +67,72 @@
             "soulBurnEffect": "",
             "awakenUpgrade": false,
             "cooldown": 0,
-            "name": "Sever",
-            "soulAcquire": 1,
-            "description": "Attacks with a Scythe, with a 35% chance to decrease Defense for 2 turns.",
+            "name": " Sever",
+            "soulAcquire": "1",
+            "description": "Attacks with a scythe, with a 35% chance to Decrease Defense for 2 turns ",
             "enhancement": [
                 {
-                    "description": "+15% damage dealt",
-                    "resources": [{ "item": "molagora", "qty": 1 }, { "item": "gold", "qty": 4000 }]
-                },
-                {
-                    "description": "+5% effect chance",
+                    "description": "15% damage dealt",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 3 },
-                        { "item": "molagora", "qty": 2 },
-                        { "item": "gold", "qty": 23000 }
+                        {
+                            "item": "gold",
+                            "qty": "4000"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "1"
+                        }
                     ]
                 },
                 {
-                    "description": "+10% effect chance",
+                    "description": "5% effect chance",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 5 },
-                        { "item": "molagorago", "qty": 2 },
-                        { "item": "gold", "qty": 65000 }
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "3"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "4"
+                        },
+                        {
+                            "item": "gold",
+                            "qty": "31000"
+                        }
                     ]
                 },
                 {
-                    "description": "+15% damage dealt",
+                    "description": "10% effect chance",
                     "resources": [
-                        { "item": "demon-blood-gem", "qty": 2 },
-                        { "item": "molagoragora", "qty": 1 },
-                        { "item": "gold", "qty": 160000 }
+                        {
+                            "item": "molagora",
+                            "qty": "7"
+                        },
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "5"
+                        },
+                        {
+                            "item": "gold",
+                            "qty": "53000"
+                        }
+                    ]
+                },
+                {
+                    "description": "15% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": "100000"
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": "2"
+                        },
+                        {
+                            "item": "demon-blood-gem",
+                            "qty": "2"
+                        }
                     ]
                 }
             ],
@@ -89,41 +141,77 @@
         },
         {
             "isPassive": false,
-            "soulBurn": 10,
+            "soulBurn": "10",
             "selfSkillBarValue": 0,
-            "soulBurnEffect": "Increases damage dealt.",
+            "soulBurnEffect": "increases damage dealt",
             "awakenUpgrade": false,
-            "cooldown": 3,
-            "name": "End of Evil",
-            "soulAcquire": 2,
-            "description": "Attacks all enemies with Scythe. Damage increases with more enemies.",
+            "cooldown": "3",
+            "name": "end of evil",
+            "soulAcquire": "2",
+            "description": "Attacks all enemies with a scythe. Damage dealt increases with more enemies.",
             "enhancement": [
                 {
-                    "description": "+5% damage dealt",
-                    "resources": [{ "item": "molagora", "qty": 1 }, { "item": "gold", "qty": 4000 }]
-                },
-                {
-                    "description": "+5% damage dealt",
+                    "description": "5% damage dealt",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 3 },
-                        { "item": "molagora", "qty": 2 },
-                        { "item": "gold", "qty": 23000 }
+                        {
+                            "item": "gold",
+                            "qty": "4000"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "1"
+                        }
                     ]
                 },
                 {
-                    "description": "+10% damage dealt",
+                    "description": "5% damage dealt",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 5 },
-                        { "item": "molagorago", "qty": 2 },
-                        { "item": "gold", "qty": 65000 }
+                        {
+                            "item": "gold",
+                            "qty": "31000"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "4"
+                        },
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "3"
+                        }
                     ]
                 },
                 {
-                    "description": "+10% damage dealt",
+                    "description": "10% damage dealt",
                     "resources": [
-                        { "item": "demon-blood-gem", "qty": 2 },
-                        { "item": "molagoragora", "qty": 1 },
-                        { "item": "gold", "qty": 160000 }
+                        {
+                            "item": "molagora",
+                            "qty": "7"
+                        },
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "5"
+                        },
+                        {
+                            "item": "gold",
+                            "qty": "53000"
+                        }
+                    ]
+                },
+                {
+                    "description": "10% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": "100000"
+                        },
+                        {
+                            "item": "demon-blood-gem",
+                            "qty": "2"
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": "2"
+                        }
                     ]
                 }
             ],
@@ -136,53 +224,116 @@
             "selfSkillBarValue": 0,
             "soulBurnEffect": "",
             "awakenUpgrade": true,
-            "cooldown": 7,
+            "cooldown": "6",
             "name": "Wave of Light",
-            "soulAcquire": 3,
-            "description": "Attacks all enemies by distorting space and time with a 50% chance to increase skill cooldown three times by 1 turn.",
+            "soulAcquire": "3",
+            "description": "Attacks all enemies by distorting space and time witha 50% chance to increase skill cooldown two times by 1 turn. ",
             "enhancement": [
                 {
-                    "description": "+5% damage dealt",
-                    "resources": [{ "item": "molagora", "qty": 1 }, { "item": "gold", "qty": 4000 }]
+                    "description": "5% damage dealt",
+                    "resources": [
+                        {
+                            "item": "gold",
+                            "qty": "4000"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "1"
+                        }
+                    ]
                 },
                 {
-                    "description": "+10% effect chance",
-                    "resources": [{ "item": "molagora", "qty": 2 }, { "item": "gold", "qty": 8000 }]
+                    "description": "10% effect chance",
+                    "resources": [
+                        {
+                            "item": "molagora",
+                            "qty": "2"
+                        },
+                        {
+                            "item": "gold",
+                            "qty": "8000"
+                        }
+                    ]
                 },
                 {
-                    "description": "+10% damage dealt",
-                    "resources": [{ "item": "molagora", "qty": 3 }, { "item": "gold", "qty": 12000 }]
+                    "description": "10% damage dealt",
+                    "resources": [
+                        {
+                            "item": "molagora",
+                            "qty": "3"
+                        },
+                        {
+                            "item": "gold",
+                            "qty": "12000"
+                        }
+                    ]
                 },
                 {
                     "description": "-1 turn cooldown",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 3 },
-                        { "item": "molagorago", "qty": 1 },
-                        { "item": "gold", "qty": 35000 }
+                        {
+                            "item": "gold",
+                            "qty": "27000"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "3"
+                        },
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "4"
+                        }
                     ]
                 },
                 {
-                    "description": "+10% effect chance",
+                    "description": "10% effect chance",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 4 },
-                        { "item": "molagorago", "qty": 1 },
-                        { "item": "gold", "qty": 60000 }
+                        {
+                            "item": "gold",
+                            "qty": "40000"
+                        },
+                        {
+                            "item": "molagora",
+                            "qty": "5"
+                        },
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "4"
+                        }
                     ]
                 },
                 {
-                    "description": "+10% damage dealt",
+                    "description": "10% damage dealt",
                     "resources": [
-                        { "item": "flame-of-soul", "qty": 7 },
-                        { "item": "molagorago", "qty": 2 },
-                        { "item": "gold", "qty": 75000 }
+                        {
+                            "item": "gold",
+                            "qty": "55000"
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": "1"
+                        },
+                        {
+                            "item": "flame-of-soul",
+                            "qty": "7"
+                        }
                     ]
                 },
                 {
-                    "description": "+15% damage dealt",
+                    "description": "15% damage dealt",
                     "resources": [
-                        { "item": "demon-blood-gem", "qty": 3 },
-                        { "item": "molagoragora", "qty": 1 },
-                        { "item": "gold", "qty": 190000 }
+                        {
+                            "item": "gold",
+                            "qty": "150000"
+                        },
+                        {
+                            "item": "molagorago",
+                            "qty": "3"
+                        },
+                        {
+                            "item": "demon-blood-gem",
+                            "qty": "3"
+                        }
                     ]
                 }
             ],
@@ -191,59 +342,63 @@
         }
     ],
     "specialtySkill": {
-        "name": "Fate Watcher",
-        "description": "Facing her fate, she carries out her duty.",
-        "dispatch": ["[Fear] type mission"],
-        "enhancement": ["Reward bonus +10%"],
-        "stats": { "command": 95, "charm": 87, "politics": 78 }
+        "name": "",
+        "description": "",
+        "dispatch": [],
+        "enhancement": [],
+        "stats": {
+            "command": "95",
+            "charm": "87",
+            "politics": "78"
+        }
     },
     "memoryImprint": [
         {
             "rank": "d",
             "status": {
-                "type": "eff",
-                "increase": "4.8%"
+                "type": "Effectiveness ",
+                "increase": 0
             }
         },
         {
             "rank": "c",
             "status": {
-                "type": "eff",
+                "type": "Effectiveness ",
                 "increase": 0
             }
         },
         {
             "rank": "b",
             "status": {
-                "type": "eff",
-                "increase": 0
+                "type": "Effectiveness ",
+                "increase": "4.8%"
             }
         },
         {
             "rank": "a",
             "status": {
-                "type": "eff",
+                "type": "Effectiveness ",
                 "increase": 0
             }
         },
         {
             "rank": "s",
             "status": {
-                "type": "eff",
+                "type": "Effectiveness ",
                 "increase": 0
             }
         },
         {
             "rank": "ss",
             "status": {
-                "type": "eff",
+                "type": "Effectiveness ",
                 "increase": 0
             }
         },
         {
             "rank": "sss",
             "status": {
-                "type": "eff",
+                "type": "Effectiveness ",
                 "increase": 0
             }
         }
@@ -252,38 +407,145 @@
         {
             "rank": 1,
             "skillUpgrade": false,
-            "statsIncrease": [{ "eff": "3%" }, { "atk": 20 }, { "hp": 60 }],
-            "resources": [{ "item": "light-rune", "qty": 10 }]
+            "statsIncrease": [
+                {
+                    "Effectiveness": "3%"
+                },
+                {
+                    "attack": "20"
+                },
+                {
+                    "health": "60"
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": "10"
+                }
+            ]
         },
         {
             "rank": 2,
             "skillUpgrade": false,
-            "statsIncrease": [{ "chc": "3%" }, { "atk": 20 }, { "hp": 60 }],
-            "resources": [{ "item": "light-rune", "qty": 15 }, { "item": "greater-light-rune", "qty": 2 }]
+            "statsIncrease": [
+                {
+                    "critical hit chance": "3"
+                },
+                {
+                    "attack": "20"
+                },
+                {
+                    "health": "60"
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": "15"
+                },
+                {
+                    "item": "greater-light-rune",
+                    "qty": "2"
+                }
+            ]
         },
         {
             "rank": 3,
             "skillUpgrade": true,
-            "statsIncrease": [{ "atk": 20 }, { "hp": 60 }],
-            "resources": [{ "item": "light-rune", "qty": 20 }, { "item": "greater-light-rune", "qty": 10 }]
+            "statsIncrease": [
+                {
+                    "attack": "20"
+                },
+                {
+                    "health": "60"
+                }
+            ],
+            "resources": [
+                {
+                    "item": "light-rune",
+                    "qty": "20"
+                },
+                {
+                    "item": "greater-light-rune",
+                    "qty": "10"
+                }
+            ]
         },
         {
             "rank": 4,
             "skillUpgrade": false,
-            "statsIncrease": [{ "spd": 4 }, { "atk": 30 }, { "hp": 80 }],
-            "resources": [{ "item": "greater-light-rune", "qty": 10 }, { "item": "epic-light-rune", "qty": 2 }]
+            "statsIncrease": [
+                {
+                    "Speed": "4"
+                },
+                {
+                    "attack": "30"
+                },
+                {
+                    "health": "80"
+                }
+            ],
+            "resources": [
+                {
+                    "item": "greater-light-rune",
+                    "qty": "10"
+                },
+                {
+                    "item": "epic-light-rune",
+                    "qty": "2"
+                }
+            ]
         },
         {
             "rank": 5,
             "skillUpgrade": false,
-            "statsIncrease": [{ "eff": "6%" }, { "atk": 30 }, { "hp": 80 }],
-            "resources": [{ "item": "epic-light-rune", "qty": 6 }, { "item": "eternal-forest-dust", "qty": 15 }]
+            "statsIncrease": [
+                {
+                    "effectiveness": "6%"
+                },
+                {
+                    "attack": "30"
+                },
+                {
+                    "health": "80"
+                }
+            ],
+            "resources": [
+                {
+                    "item": "eternal-forest-dust",
+                    "qty": "15"
+                },
+                {
+                    "item": "epic-light-rune",
+                    "qty": "6"
+                }
+            ]
         },
         {
             "rank": 6,
             "skillUpgrade": false,
-            "statsIncrease": [{ "chc": "6%" }, { "atk": 30 }, { "hp": 80 }],
-            "resources": [{ "item": "epic-light-rune", "qty": 10 }, { "item": "demon-blood-gem", "qty": 10 }]
+            "statsIncrease": [
+                {
+                    "Critical Hit Chance": "6%"
+                },
+                {
+                    "attack": "30"
+                },
+                {
+                    "health": "80"
+                }
+            ],
+            "resources": [
+                {
+                    "item": "epic-light-rune",
+                    "qty": "10"
+                },
+                {
+                    "item": "demon-blood-gem",
+                    "qty": "10"
+                }
+            ]
         }
     ]
 }
