@@ -6,7 +6,7 @@
     "zodiac": "libra",
     "specialtyChangeName": "",
     "selfSkillBarName": "",
-    "background": ["A member of the Taranor Guard. Unafraid of death, they will obey any order."],
+    "background": "A member of the Taranor Guard. Unafraid of death, they will obey any order.",
     "relations": [
         {
             "hero": "taranor-royal-guard",
