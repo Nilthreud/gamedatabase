@@ -7,12 +7,7 @@
     "specialtyChangeName": "",
     "selfSkillBarName": "",
     "background": "A magical creature that has collected great power over the course of its eternal life. Hunted down by countless warriors and magicians desperate to posses its concentrated power, it is now extremely hard to find.",
-    "relations": [
-        {
-            "hero": "",
-            "relationType": ""
-        }
-    ],
+    "relations": [],
     "stats": {
         "base": {
             "cp": 12193,
@@ -50,20 +45,7 @@
             "name": "Gnaw",
             "soulAcquire": 1,
             "description": "Attacks with sharp teeth.",
-            "enhancement": [
-                {
-                    "description": "",
-                    "resources": []
-                },
-                {
-                    "description": "",
-                    "resources": []
-                },
-                {
-                    "description": "",
-                    "resources": []
-                }
-            ],
+            "enhancement": [],
             "buffs": [],
             "debuffs": []
         },
@@ -77,20 +59,7 @@
             "name": "Phantasma Seeds",
             "soulAcquire": 0,
             "description": "The item will be at max level when you receive it, and earn a bonus 6% EXP in battle.",
-            "enhancement": [
-                {
-                    "description": "",
-                    "resources": []
-                },
-                {
-                    "description": "",
-                    "resources": []
-                },
-                {
-                    "description": "",
-                    "resources": []
-                }
-            ],
+            "enhancement": [],
             "buffs": [],
             "debuffs": []
         },
@@ -104,20 +73,7 @@
             "name": "",
             "soulAcquire": 0,
             "description": "",
-            "enhancement": [
-                {
-                    "description": "",
-                    "resources": []
-                },
-                {
-                    "description": "",
-                    "resources": []
-                },
-                {
-                    "description": "",
-                    "resources": []
-                }
-            ],
+            "enhancement": [],
             "buffs": [],
             "debuffs": []
         }
@@ -194,125 +150,38 @@
         {
             "rank": 1,
             "skillUpgrade": false,
-            "statsIncrease": [
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                }
-            ],
-            "resources": [
-                {
-                    "item": "",
-                    "qty": 0
-                }
-            ]
+            "statsIncrease": [],
+            "resources": []
         },
         {
             "rank": 2,
             "skillUpgrade": false,
-            "statsIncrease": [
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                }
-            ],
-            "resources": [
-                {
-                    "item": "",
-                    "qty": 0
-                }
-            ]
+            "statsIncrease": [],
+            "resources": []
         },
         {
             "rank": 3,
             "skillUpgrade": true,
-            "statsIncrease": [
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                }
-            ],
-            "resources": [
-                {
-                    "item": "",
-                    "qty": 0
-                }
-            ]
+            "statsIncrease": [],
+            "resources": []
         },
         {
             "rank": 4,
             "skillUpgrade": false,
-            "statsIncrease": [
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                }
-            ],
-            "resources": [
-                {
-                    "item": "",
-                    "qty": 0
-                }
-            ]
+            "statsIncrease": [],
+            "resources": []
         },
         {
             "rank": 5,
             "skillUpgrade": false,
-            "statsIncrease": [
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                }
-            ],
-            "resources": [
-                {
-                    "item": "",
-                    "qty": 0
-                }
-            ]
+            "statsIncrease": [],
+            "resources": []
         },
         {
             "rank": 6,
             "skillUpgrade": false,
-            "statsIncrease": [
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                },
-                {
-                    "": 0
-                }
-            ],
-            "resources": [
-                {
-                    "item": "",
-                    "qty": 0
-                }
-            ]
+            "statsIncrease": [],
+            "resources": []
         }
     ]
 }
