@@ -1,0 +1,318 @@
+{
+    "name": "Mega Phantasma",
+    "rarity": "2",
+    "classType": "material",
+    "element": "ice",
+    "zodiac": "taurus",
+    "specialtyChangeName": "",
+    "selfSkillBarName": "",
+    "background": "A magical creature that has collected great power over the course of its long life. It is incredibly wary, and unable to properly control its own power, making it capable of delivering great damage.",
+    "relations": [
+        {
+            "hero": "",
+            "relationType": ""
+        }
+    ],
+    "stats": {
+        "base": {
+            "cp": 6750,
+            "atk": 690,
+            "hp": 2002,
+            "spd": 97,
+            "def": 203,
+            "chc": 18,
+            "chd": 150,
+            "eff": 0,
+            "efr": 0,
+            "dac": 5
+        },
+        "max": {
+            "cp": 41710,
+            "atk": 5000,
+            "hp": 11694,
+            "spd": 97,
+            "def": 841,
+            "chc": 24,
+            "chd": 150,
+            "eff": 0,
+            "efr": 0,
+            "dac": 5
+        }
+    },
+    "skills": [
+        {
+            "isPassive": false,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Gnaw",
+            "soulAcquire": 1,
+            "description": "Attacks with sharp teeth.",
+            "enhancement": [
+                {
+                    "description": "",
+                    "resources": []
+                },
+                {
+                    "description": "",
+                    "resources": []
+                },
+                {
+                    "description": "",
+                    "resources": []
+                }
+            ],
+            "buffs": [],
+            "debuffs": []
+        },
+        {
+            "isPassive": true,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "Phantasma Seeds",
+            "soulAcquire": 0,
+            "description": "The item will be at max level when you receive it, and earn a bonus 3% EXP in battle.",
+            "enhancement": [
+                {
+                    "description": "",
+                    "resources": []
+                },
+                {
+                    "description": "",
+                    "resources": []
+                },
+                {
+                    "description": "",
+                    "resources": []
+                }
+            ],
+            "buffs": [],
+            "debuffs": []
+        },
+        {
+            "isPassive": false,
+            "soulBurn": 0,
+            "selfSkillBarValue": 0,
+            "soulBurnEffect": "",
+            "awakenUpgrade": false,
+            "cooldown": 0,
+            "name": "",
+            "soulAcquire": 0,
+            "description": "",
+            "enhancement": [
+                {
+                    "description": "",
+                    "resources": []
+                },
+                {
+                    "description": "",
+                    "resources": []
+                },
+                {
+                    "description": "",
+                    "resources": []
+                }
+            ],
+            "buffs": [],
+            "debuffs": []
+        }
+    ],
+    "specialtySkill": {
+        "name": "",
+        "description": "",
+        "dispatch": [],
+        "enhancement": [],
+        "stats": {
+            "command": 0,
+            "charm": 0,
+            "politics": 0
+        }
+    },
+    "memoryImprintFormation": {
+        "north": false,
+        "south": false,
+        "east": false,
+        "west": false
+    },
+    "memoryImprint": [
+        {
+            "rank": "d",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "c",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "b",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "a",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "s",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "ss",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        },
+        {
+            "rank": "sss",
+            "status": {
+                "type": "",
+                "increase": 0
+            }
+        }
+    ],
+    "awakening": [
+        {
+            "rank": 1,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                }
+            ],
+            "resources": [
+                {
+                    "item": "",
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                }
+            ],
+            "resources": [
+                {
+                    "item": "",
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "skillUpgrade": true,
+            "statsIncrease": [
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                }
+            ],
+            "resources": [
+                {
+                    "item": "",
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                }
+            ],
+            "resources": [
+                {
+                    "item": "",
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                }
+            ],
+            "resources": [
+                {
+                    "item": "",
+                    "qty": 0
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "skillUpgrade": false,
+            "statsIncrease": [
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                },
+                {
+                    "": 0
+                }
+            ],
+            "resources": [
+                {
+                    "item": "",
+                    "qty": 0
+                }
+            ]
+        }
+    ]
+}
