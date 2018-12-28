@@ -15,10 +15,6 @@
         {
             "hero": "maya",
             "relationType": "rival"
-        },
-        {
-            "hero": "",
-            "relationType": ""
         }
     ],
     "stats": {
@@ -35,15 +31,15 @@
             "dac": 5
         },
         "max": {
-            "cp": 14045,
-            "atk": 671,
-            "hp": 5364,
+            "cp": 16327,
+            "atk": 821,
+            "hp": 6266,
             "spd": 97,
-            "def": 645,
+            "def": 703,
             "chc": 15,
             "chd": 150,
             "eff": 0,
-            "efr": 0,
+            "efr": 6,
             "dac": 5
         }
     },
@@ -67,7 +63,7 @@
                             "qty": 4000
                         },
                         {
-                            "item": "molagor",
+                            "item": "molagora",
                             "qty": 1
                         }
                     ]
@@ -89,7 +85,7 @@
                     "description": "+5% damage dealt",
                     "resources": [
                         {
-                            "item": "",
+                            "item": "gold",
                             "qty": 17000
                         },
                         {
@@ -97,7 +93,7 @@
                             "qty": 3
                         },
                         {
-                            "item": "mysterious-",
+                            "item": "mysterious-flash",
                             "qty": 1
                         }
                     ]
@@ -199,7 +195,7 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": 0
+                            "qty": 35000
                         },
                         {
                             "item": "molagorago",
@@ -327,7 +323,7 @@
     ],
     "specialtySkill": {
         "name": "Righteous Stare",
-        "description": "Bravely faces and hardship head-on",
+        "description": "Bravely faces any hardship head-on",
         "dispatch": "All Missions",
         "enhancement": "EXP Bonus +6%",
         "stats": {
