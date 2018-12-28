@@ -31,11 +31,11 @@
             "dac": 5
         },
         "max": {
-            "cp": 14079,
-            "atk": 889,
-            "hp": 5203,
+            "cp": 16221,
+            "atk": 1119,
+            "hp": 6091,
             "spd": 100,
-            "def": 561,
+            "def": 594,
             "chc": 15,
             "chd": 150,
             "eff": 0,
@@ -52,7 +52,7 @@
             "awakenUpgrade": false,
             "cooldown": 0,
             "name": "Shred",
-            "soulAcquire": 0,
+            "soulAcquire": 1,
             "description": "Attacks with sharp claws, with a 35% chance to inflict bleeding for 2 turns.",
             "enhancement": [
                 {
@@ -134,7 +134,7 @@
                 }
             ],
             "buffs": [],
-            "debuffs": []
+            "debuffs": ["stic_blood"]
         },
         {
             "isPassive": true,
@@ -145,7 +145,7 @@
             "cooldown": 0,
             "name": "Battle Frenzy",
             "soulAcquire": 0,
-            "description": "Increase Evasion Chance of all allies by 15%. When the turn ends, successfully evades the next attack once. Combat Readiness increases by 10% each time evading the enemy's attack.",
+            "description": "Increases Evasion Chance of all allies by 15%. When the turn ends, successfully evades the next attack once. Combat Readiness increases by 10% each time evading the enemy's attack.",
             "enhancement": [
                 {
                     "description": "+1% Combat Readiness",
