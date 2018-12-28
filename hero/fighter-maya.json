@@ -1,6 +1,6 @@
 {
     "name": "Fighter Maya",
-    "rarity": "4",
+    "rarity": 4,
     "classType": "knight",
     "element": "light",
     "zodiac": "libra",
@@ -23,25 +23,25 @@
     ],
     "stats": {
         "base": {
-            "cp": "1261",
-            "atk": "63",
-            "hp": "303",
-            "spd": "97",
-            "def": "76",
-            "chc": "15",
-            "chd": "150",
+            "cp": 1261,
+            "atk": 63,
+            "hp": 303,
+            "spd": 97,
+            "def": 76,
+            "chc": 15,
+            "chd": 150,
             "eff": 0,
             "efr": 0,
-            "dac": "5"
+            "dac": 5
         },
         "max": {
-            "cp": "14045",
-            "atk": "671",
-            "hp": "5364",
-            "spd": "97",
-            "def": "645",
-            "chc": "15",
-            "chd": "150",
+            "cp": 14045,
+            "atk": 671,
+            "hp": 5364,
+            "spd": 97,
+            "def": 645,
+            "chc": 15,
+            "chd": 150,
             "eff": 0,
             "efr": 0,
             "dac": 5
@@ -56,7 +56,7 @@
             "awakenUpgrade": false,
             "cooldown": 0,
             "name": "Strike of Provocation",
-            "soulAcquire": "1",
+            "soulAcquire": 1,
             "description": "Attacks with a blunt weapon, with a 50% chance to provoke for 1 turn.",
             "enhancement": [
                 {
@@ -64,11 +64,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "4000"
+                            "qty": 4000
                         },
                         {
                             "item": "molagor",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -77,11 +77,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "8000"
+                            "qty": 8000
                         },
                         {
                             "item": "molagora",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 },
@@ -90,15 +90,15 @@
                     "resources": [
                         {
                             "item": "",
-                            "qty": "17000"
+                            "qty": 17000
                         },
                         {
                             "item": "molagora",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "mysterious-",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -107,15 +107,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "35000"
+                            "qty": 35000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "1"
+                            "qty": 1
                         },
                         {
                             "item": "mysterious-flash",
-                            "qty": "3"
+                            "qty": 3
                         }
                     ]
                 },
@@ -124,15 +124,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "100000"
+                            "qty": 100000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "reingar-student-id",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 }
@@ -156,11 +156,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "4000"
+                            "qty": 4000
                         },
                         {
                             "item": "molagora",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -169,11 +169,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "8000"
+                            "qty": 8000
                         },
                         {
                             "item": "molagora",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 },
@@ -182,15 +182,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "17000"
+                            "qty": 17000
                         },
                         {
                             "item": "molagora",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "mysterious-flash",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -203,11 +203,11 @@
                         },
                         {
                             "item": "molagorago",
-                            "qty": "1"
+                            "qty": 1
                         },
                         {
                             "item": "mysterious-flash",
-                            "qty": "3"
+                            "qty": 3
                         }
                     ]
                 },
@@ -216,15 +216,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "100000"
+                            "qty": 100000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "reingar-student-id",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 }
@@ -234,13 +234,13 @@
         },
         {
             "isPassive": false,
-            "soulBurn": "10",
+            "soulBurn": 10,
             "selfSkillBarValue": 0,
             "soulBurnEffect": "Increases damage dealt.",
             "awakenUpgrade": false,
-            "cooldown": "5",
+            "cooldown": 5,
             "name": "Finishing Attack",
-            "soulAcquire": "2",
+            "soulAcquire": 2,
             "description": "Attacks with a powerful smash.  Damage dealt increases by 300% if the enemy's Health is less than 30%. Damage dealt increases proportional to the caster's Defense.",
             "enhancement": [
                 {
@@ -248,11 +248,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "4000"
+                            "qty": 4000
                         },
                         {
                             "item": "molagora",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -261,11 +261,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "8000"
+                            "qty": 8000
                         },
                         {
                             "item": "molagora",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 },
@@ -274,15 +274,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "17000"
+                            "qty": 17000
                         },
                         {
                             "item": "molagora",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "mysterious-flash",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -291,15 +291,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "35000"
+                            "qty": 35000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "1"
+                            "qty": 1
                         },
                         {
                             "item": "mysterious-flash",
-                            "qty": "3"
+                            "qty": 3
                         }
                     ]
                 },
@@ -308,15 +308,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "100000"
+                            "qty": 100000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "reingar-studet-id",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 }
@@ -331,9 +331,9 @@
         "dispatch": "All Missions",
         "enhancement": "EXP Bonus +6%",
         "stats": {
-            "command": "17",
-            "charm": "75",
-            "politics": "23"
+            "command": 17,
+            "charm": 75,
+            "politics": 23
         }
     },
     "memoryImprint": [
@@ -396,16 +396,16 @@
                     "hp": "3%"
                 },
                 {
-                    "atk": "20"
+                    "atk": 20
                 },
                 {
-                    "hp": "60"
+                    "hp": 60
                 }
             ],
             "resources": [
                 {
                     "item": "light-rune",
-                    "qty": "8"
+                    "qty": 8
                 }
             ]
         },
@@ -417,20 +417,20 @@
                     "def": "3%"
                 },
                 {
-                    "atk": "20"
+                    "atk": 20
                 },
                 {
-                    "hp": "60"
+                    "hp": 60
                 }
             ],
             "resources": [
                 {
                     "item": "light-rune",
-                    "qty": "12"
+                    "qty": 12
                 },
                 {
                     "item": "greater-light-rune",
-                    "qty": "2"
+                    "qty": 2
                 }
             ]
         },
@@ -439,20 +439,20 @@
             "skillUpgrade": true,
             "statsIncrease": [
                 {
-                    "atk": "20"
+                    "atk": 20
                 },
                 {
-                    "hp": "60"
+                    "hp": 60
                 }
             ],
             "resources": [
                 {
                     "item": "greater-light-rune",
-                    "qty": "8"
+                    "qty": 8
                 },
                 {
                     "item": "light-rune",
-                    "qty": "17"
+                    "qty": 17
                 }
             ]
         },
@@ -464,20 +464,20 @@
                     "efr": "6%"
                 },
                 {
-                    "atk": "30"
+                    "atk": 30
                 },
                 {
-                    "hp": "80"
+                    "hp": 80
                 }
             ],
             "resources": [
                 {
                     "item": "greater-light-rune",
-                    "qty": "8"
+                    "qty": 8
                 },
                 {
                     "item": "epic-light-rune",
-                    "qty": "1"
+                    "qty": 1
                 }
             ]
         },
@@ -489,20 +489,20 @@
                     "hp": "6%"
                 },
                 {
-                    "atk": "30"
+                    "atk": 30
                 },
                 {
-                    "hp": "80"
+                    "hp": 80
                 }
             ],
             "resources": [
                 {
                     "item": "epic-light-rune",
-                    "qty": "5"
+                    "qty": 5
                 },
                 {
                     "item": "dream-time-circuit",
-                    "qty": "12"
+                    "qty": 12
                 }
             ]
         },
@@ -514,20 +514,20 @@
                     "def": "6%"
                 },
                 {
-                    "atk": "30"
+                    "atk": 30
                 },
                 {
-                    "def": "80"
+                    "def": 80
                 }
             ],
             "resources": [
                 {
                     "item": "epic-light-rune",
-                    "qty": "8"
+                    "qty": 8
                 },
                 {
                     "item": "reingar-student-id",
-                    "qty": "8"
+                    "qty": 8
                 }
             ]
         }
