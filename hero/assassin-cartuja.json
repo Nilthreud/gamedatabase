@@ -1,6 +1,6 @@
 {
     "name": "Assassin Cartuja",
-    "rarity": "4",
+    "rarity": 4,
     "classType": "warrior",
     "element": "dark",
     "zodiac": "scorpio",
@@ -19,25 +19,25 @@
     ],
     "stats": {
         "base": {
-            "cp": "1253",
-            "atk": "84",
-            "hp": "294",
-            "spd": "100",
-            "def": "66",
-            "chc": "15",
-            "chd": "150",
+            "cp": 1253,
+            "atk": 84,
+            "hp": 294,
+            "spd": 100,
+            "def": 66,
+            "chc": 15,
+            "chd": 150,
             "eff": 0,
             "efr": 0,
-            "dac": "5"
+            "dac": 5
         },
         "max": {
-            "cp": "14079",
-            "atk": "889",
-            "hp": "5203",
-            "spd": "100",
-            "def": "561",
-            "chc": "15",
-            "chd": "150",
+            "cp": 14079,
+            "atk": 889,
+            "hp": 5203,
+            "spd": 100,
+            "def": 561,
+            "chc": 15,
+            "chd": 150,
             "eff": 0,
             "efr": 0,
             "dac": 5
@@ -60,11 +60,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "4000"
+                            "qty": 4000
                         },
                         {
                             "item": "molagora",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -73,11 +73,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "8000"
+                            "qty": 8000
                         },
                         {
                             "item": "molagora",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 },
@@ -86,15 +86,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "17000"
+                            "qty": 17000
                         },
                         {
                             "item": "molagora",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "sharp-spearhead",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -103,15 +103,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "35000"
+                            "qty": 35000
                         },
                         {
                             "item": "sharp-spearhead",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "molagorago",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -120,15 +120,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "100000"
+                            "qty": 100000
                         },
                         {
                             "item": "black-curse-powder",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "molagorago",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 }
@@ -152,11 +152,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "4000"
+                            "qty": 4000
                         },
                         {
                             "item": "molagora",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -165,11 +165,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "8000"
+                            "qty": 8000
                         },
                         {
                             "item": "molagora",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 },
@@ -178,15 +178,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "17000"
+                            "qty": 17000
                         },
                         {
                             "item": "molagora",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "sharp-spearhead",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -195,15 +195,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "35000"
+                            "qty": 35000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "1"
+                            "qty": 1
                         },
                         {
                             "item": "sharp-spearhead",
-                            "qty": "3"
+                            "qty": 3
                         }
                     ]
                 },
@@ -212,15 +212,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "100000"
+                            "qty": 100000
                         },
                         {
                             "item": "black-curse-powder",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "molagorago",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 }
@@ -230,13 +230,13 @@
         },
         {
             "isPassive": false,
-            "soulBurn": "20",
+            "soulBurn": 20,
             "selfSkillBarValue": "",
             "soulBurnEffect": "Ignores effect resistance.",
             "awakenUpgrade": true,
-            "cooldown": "5",
+            "cooldown": 5,
             "name": "Sudden Assault",
-            "soulAcquire": "2",
+            "soulAcquire": 2,
             "description": "Dashes towards the enemy to attack, stunning for 1 turn. Decreases Defense for 2 turns.",
             "enhancement": [
                 {
@@ -244,11 +244,11 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "4000"
+                            "qty": 4000
                         },
                         {
                             "item": "molagora",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -257,15 +257,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "8000"
+                            "qty": 8000
                         },
                         {
                             "item": "molagora",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "shard-spearhead",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -274,15 +274,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "17000"
+                            "qty": 17000
                         },
                         {
                             "item": "molagora",
-                            "qty": "3"
+                            "qty": 3
                         },
                         {
                             "item": "sharp-spearhead",
-                            "qty": "1"
+                            "qty": 1
                         }
                     ]
                 },
@@ -291,15 +291,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "35000"
+                            "qty": 35000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "1"
+                            "qty": 1
                         },
                         {
                             "item": "sharp-spearhead",
-                            "qty": "3"
+                            "qty": 3
                         }
                     ]
                 },
@@ -308,15 +308,15 @@
                     "resources": [
                         {
                             "item": "gold",
-                            "qty": "100000"
+                            "qty": 100000
                         },
                         {
                             "item": "molagorago",
-                            "qty": "2"
+                            "qty": 2
                         },
                         {
                             "item": "black-curse-powder",
-                            "qty": "2"
+                            "qty": 2
                         }
                     ]
                 }
@@ -331,9 +331,9 @@
         "dispatch": "[Hunt] Category",
         "enhancement": "Time Required -6%",
         "stats": {
-            "command": "55",
-            "charm": "17",
-            "politics": "88"
+            "command": 55,
+            "charm": 17,
+            "politics": 88
         }
     },
     "memoryImprint": [
@@ -396,16 +396,16 @@
                     "hp": "3%"
                 },
                 {
-                    "atk": "20"
+                    "atk": 20
                 },
                 {
-                    "hp": "60"
+                    "hp": 60
                 }
             ],
             "resources": [
                 {
                     "item": "dark-rune",
-                    "qty": "8"
+                    "qty": 8
                 }
             ]
         },
@@ -417,20 +417,20 @@
                     "atk": "3%"
                 },
                 {
-                    "atk": "20"
+                    "atk": 20
                 },
                 {
-                    "hp": "60"
+                    "hp": 60
                 }
             ],
             "resources": [
                 {
                     "item": "dark-rune",
-                    "qty": "12"
+                    "qty": 12
                 },
                 {
                     "item": "greater-dark-rune",
-                    "qty": "2"
+                    "qty": 2
                 }
             ]
         },
@@ -439,20 +439,20 @@
             "skillUpgrade": true,
             "statsIncrease": [
                 {
-                    "atk": "20"
+                    "atk": 20
                 },
                 {
-                    "hp": "60"
+                    "hp": 60
                 }
             ],
             "resources": [
                 {
                     "item": "dark-rune",
-                    "qty": "17"
+                    "qty": 17
                 },
                 {
                     "item": "greater-dark-rune",
-                    "qty": "8"
+                    "qty": 8
                 }
             ]
         },
@@ -464,20 +464,20 @@
                     "def": "6%"
                 },
                 {
-                    "atk": "30"
+                    "atk": 30
                 },
                 {
-                    "hp": "80"
+                    "hp": 80
                 }
             ],
             "resources": [
                 {
                     "item": "greater-dark-rune",
-                    "qty": "8"
+                    "qty": 8
                 },
                 {
                     "item": "epic-dark-rune",
-                    "qty": "1"
+                    "qty": 1
                 }
             ]
         },
@@ -489,20 +489,20 @@
                     "hp": "6%"
                 },
                 {
-                    "atk": "30"
+                    "atk": 30
                 },
                 {
-                    "hp": "80"
+                    "hp": 80
                 }
             ],
             "resources": [
                 {
                     "item": "epic-dark-rune",
-                    "qty": "5"
+                    "qty": 5
                 },
                 {
                     "item": "erikion-carapace",
-                    "qty": "12"
+                    "qty": 12
                 }
             ]
         },
@@ -514,20 +514,20 @@
                     "atk": "6%"
                 },
                 {
-                    "atk": "30"
+                    "atk": 30
                 },
                 {
-                    "hp": "80"
+                    "hp": 80
                 }
             ],
             "resources": [
                 {
                     "item": "epic-dark-rune",
-                    "qty": "8"
+                    "qty": 8
                 },
                 {
                     "item": "black-curse-powder",
-                    "qty": "8"
+                    "qty": 8
                 }
             ]
         }
