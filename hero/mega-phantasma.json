@@ -1,6 +1,6 @@
 {
-    "name": "Mega Phantasma",
-    "rarity": "2",
+    "name": "Mega-Phantasma",
+    "rarity": 2,
     "classType": "material",
     "element": "ice",
     "zodiac": "taurus",
@@ -22,11 +22,11 @@
             "dac": 5
         },
         "max": {
-            "cp": 7889,
-            "atk": 422,
-            "hp": 2721,
+            "cp": 8377,
+            "atk": 448,
+            "hp": 2888,
             "spd": 91,
-            "def": 385,
+            "def": 409,
             "chc": 15,
             "chd": 150,
             "eff": 0,
