@@ -1,0 +1,432 @@
+{
+  "name": "Lots",
+  "rarity": 4,
+  "classType": "soul-weaver",
+  "element": "earth",
+  "zodiac": "gemini",
+  "specialtyChangeName": "",
+  "selfSkillBarName": "",
+  "background": "A valiant healer searching for a rare magical item",
+  "relations": [
+    {
+      "hero": "auxiliary-lots",
+      "relationType": "trust"
+    },
+    {
+      "hero": "achates",
+      "relationType": "trust"
+    },
+    {
+      "hero": "angelica",
+      "relationType": "longing"
+    },
+    {
+      "hero": "judith",
+      "relationType": "trust"
+    },
+    {
+      "hero": "clarissa",
+      "relationType": "rival"
+    }
+  ],
+  "stats": {
+    "base": {
+      "cp": 1127,
+      "atk": 42,
+      "hp": 234,
+      "spd": 97,
+      "def": 78,
+      "chc": 15,
+      "chd": 150,
+      "eff": 0,
+      "efr": 0,
+      "dac": 5
+    },
+    "max": {
+      "cp": 12119,
+      "atk": 453,
+      "hp": 4152,
+      "spd": 97,
+      "def": 662,
+      "chc": 15,
+      "chd": 150,
+      "eff": 0,
+      "efr": 0,
+      "dac": 5
+    }
+  },
+  "skills": [
+    {
+      "isPassive": false,
+      "soulBurn": 0,
+      "selfSkillBarValue": 0,
+      "soulBurnEffect": "",
+      "awakenUpgrade": false,
+      "cooldown": 0,
+      "name": "Holy Light",
+      "soulAcquire": 0,
+      "description": "Attacks with a light sphere, with a 50% chance to decrease Attack for 1 turn.",
+      "enhancement": [
+        {
+          "description": "+5% damage dealt",
+          "resources": []
+        },
+        {
+          "description": "+10% effect chance",
+          "resources": []
+        },
+        {
+          "description": "+15% effect chance",
+          "resources": []
+        },
+        {
+          "description": "+10% damage dealt",
+          "resources": [
+            {
+              "item": "gold",
+              "qty": 0
+            },
+            {
+              "item": "",
+              "qty": 0
+            }
+          ]
+        },
+        {
+          "description": "+15% damage dealt",
+          "resources": [
+            {
+              "item": "gold",
+              "qty": 0
+            },
+            {
+              "item": "",
+              "qty": 0
+            }
+          ]
+        }
+      ],
+      "buffs": [],
+      "debuffs": [
+        "stic_att_dn"
+      ]
+    },
+    {
+      "isPassive": false,
+      "soulBurn": 0,
+      "selfSkillBarValue": 0,
+      "soulBurnEffect": "",
+      "awakenUpgrade": false,
+      "cooldown": 2,
+      "name": "Regen",
+      "soulAcquire": 0,
+      "description": "Recovers an ally's health with healing magic, and increases Combat Readiness by 80%. Amount recovered is proportional to the ally's max Health.",
+      "enhancement": [
+        {
+          "description": "+5% healing",
+          "resources": []
+        },
+        {
+          "description": "+5% Combat Readiness",
+          "resources": []
+        },
+        {
+          "description": "+15% healing",
+          "resources": []
+        },
+        {
+          "description": "+5% Combat Readiness",
+          "resources": [
+            {
+              "item": "gold",
+              "qty": 0
+            },
+            {
+              "item": "",
+              "qty": 0
+            }
+          ]
+        },
+        {
+          "description": "+10% Combat Readiness",
+          "resources": [
+            {
+              "item": "gold",
+              "qty": 0
+            },
+            {
+              "item": "",
+              "qty": 0
+            }
+          ]
+        }
+      ],
+      "buffs": [],
+      "debuffs": []
+    },
+    {
+      "isPassive": false,
+      "soulBurn": 20,
+      "selfSkillBarValue": 0,
+      "soulBurnEffect": "Extends buff duration by 2 turns.",
+      "awakenUpgrade": true,
+      "cooldown": 4,
+      "name": "Serenity",
+      "soulAcquire": 2,
+      "description": "Uses strengthening magic to increase the Combat Readiness of allies by 10% and grant continuous healing for 3 turns.",
+      "enhancement": [
+        {
+          "description": "+2% Combat Readiness",
+          "resources": []
+        },
+        {
+          "description": "+2% Combat Readiness",
+          "resources": []
+        },
+        {
+          "description": "-1 turn cooldown",
+          "resources": []
+        },
+        {
+          "description": "+3% Combat Readiness",
+          "resources": [
+            {
+              "item": "gold",
+              "qty": 0
+            },
+            {
+              "item": "",
+              "qty": 0
+            }
+          ]
+        },
+        {
+          "description": "+3% Combat Readiness",
+          "resources": [
+            {
+              "item": "gold",
+              "qty": 0
+            },
+            {
+              "item": "",
+              "qty": 0
+            }
+          ]
+        }
+      ],
+      "buffs": [
+        "stic_heal"
+      ],
+      "debuffs": []
+    }
+  ],
+  "specialtySkill": {
+    "name": "",
+    "description": "",
+    "dispatch": [],
+    "enhancement": [],
+    "stats": {
+      "command": 0,
+      "charm": 0,
+      "politics": 0
+    }
+  },
+  "memoryImprintFormation": {
+    "north": true,
+    "south": true,
+    "east": true,
+    "west": true
+  },
+  "memoryImprint": [
+    {
+      "rank": "d",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    },
+    {
+      "rank": "c",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    },
+    {
+      "rank": "b",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    },
+    {
+      "rank": "a",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    },
+    {
+      "rank": "s",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    },
+    {
+      "rank": "ss",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    },
+    {
+      "rank": "sss",
+      "status": {
+        "type": "dac",
+        "increase": 0
+      }
+    }
+  ],
+  "awakening": [
+    {
+      "rank": 1,
+      "skillUpgrade": false,
+      "statsIncrease": [
+        {
+          "efr": "0.030"
+        },
+        {
+          "atk": 20
+        },
+        {
+          "hp": 60
+        }
+      ],
+      "resources": [
+        {
+          "item": "",
+          "qty": 10
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "skillUpgrade": false,
+      "statsIncrease": [
+        {
+          "hp": "0.030"
+        },
+        {
+          "atk": 20
+        },
+        {
+          "hp": 60
+        }
+      ],
+      "resources": [
+        {
+          "item": "",
+          "qty": 15
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "skillUpgrade": true,
+      "statsIncrease": [
+        {
+          "atk": 20
+        },
+        {
+          "hp": 60
+        }
+      ],
+      "resources": [
+        {
+          "item": "",
+          "qty": 20
+        },
+        {
+          "item": "",
+          "qty": 10
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "skillUpgrade": false,
+      "statsIncrease": [
+        {
+          "spd": "4"
+        },
+        {
+          "atk": 30
+        },
+        {
+          "hp": 80
+        }
+      ],
+      "resources": [
+        {
+          "item": "",
+          "qty": 10
+        },
+        {
+          "item": "",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "skillUpgrade": false,
+      "statsIncrease": [
+        {
+          "efr": "0.060"
+        },
+        {
+          "atk": 30
+        },
+        {
+          "hp": 80
+        }
+      ],
+      "resources": [
+        {
+          "item": "",
+          "qty": 6
+        },
+        {
+          "item": "",
+          "qty": 15
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "skillUpgrade": false,
+      "statsIncrease": [
+        {
+          "hp": "0.060"
+        },
+        {
+          "atk": 30
+        },
+        {
+          "hp": 80
+        }
+      ],
+      "resources": [
+        {
+          "item": "",
+          "qty": 10
+        },
+        {
+          "item": "",
+          "qty": 10
+        }
+      ]
+    }
+  ]
+}
